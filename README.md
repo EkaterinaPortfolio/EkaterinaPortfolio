@@ -1,7 +1,25 @@
 ## Привет!
 ## Я Крюкова Екатерина, QA-engineer
-## Вот, список программ в котоых я работала
-![image](https://github.com/EkaterinaPortfolio/EkaterinaPortfolio/assets/160839669/30276457-472d-4dfe-b7b9-cd60ae63938a)
+## Вот, что я умею
+Мои ключевые работы можно увидеть пройдя по [ссылке](https://github.com/EkaterinaPortfolio?tab=repositories) 
 
-
+Работала со следующими инструментами:
+* IntelliJ IDEA Community Edition 2023.2
+* Docker
+* DBeaver
+* Postman
+* JMeter
+* Jira
+* Git
+* GitHub
+* OpenJDK 11
+* Gradle
+* Maven
+* JUnit
+* Selenide
+* Lombok
+* Allure
+* Faker
+* MySQL
+* PostgreSQL
 
