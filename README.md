@@ -5,7 +5,7 @@
 
 **Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
 
-**Сертификаты Нетологии:** [Основы SQL](https://netology.ru/sharing/51fa0f38e992e4b5ff3516d092e1d112?utm_source=social&utm_campaign=certificate_lms ), [Ручное тестирование веб-приложений](https://netology.ru/sharing/7aefa490e7e063b0be80b731efd3be00?utm_source=social&utm_campaign=certificate_lms ), [Git - система контроля версий](https://netology.ru/sharing/4b36848c6c2b7b5963bb6728b36ea414?utm_source=social&utm_campaign=certificate_lms ), [Java для тестировщиков](https://netology.ru/sharing/dab7b32db9f9fa2fa17b959f41864fbf?utm_source=social&utm_campaign=certificate_lms ), [Автоматизорованное тестирование](https://netology.ru/sharing/6d693313f588060854f0a1c58a3e963b?utm_source=social&utm_campaign=certificate_lms ), [Тестировщик ПО](https://netology.ru/sharing/e32c8aa3953c83c0667acfd3f03726cf?utm_source=social&utm_campaign=certificate_lms ).
+**Сертификаты Нетологии:** [Основы SQL](https://disk.yandex.ru/i/m7sa0SRMbiwlbA), [Ручное тестирование веб-приложений](https://disk.yandex.ru/i/gssbtCHPj2hkig), [Git - система контроля версий](https://disk.yandex.ru/i/3kvpHYNImrb9ZQ), [Java для тестировщиков](https://disk.yandex.ru/i/r9HjBYIas6gGaA), [Автоматизорованное тестирование](https://disk.yandex.ru/i/VVkgHVMFB1qSOw), [Тестировщик ПО]([https://netology.ru/sharing/e32c8aa3953c83c0667acfd3f03726cf?utm_source=social&utm_campaign=certificate_lms ](https://disk.yandex.ru/i/30ua1jIqSjaD5w).
 
 **Полученные навыки:** 
 * Запуск тестов с использованием системы Continuous Integration (CI)
