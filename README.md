@@ -5,7 +5,7 @@
 
 **Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
 
-**Сертификаты Нетологии:** [Основы SQL](https://disk.yandex.ru/i/m7sa0SRMbiwlbA), [Ручное тестирование веб-приложений](https://disk.yandex.ru/i/gssbtCHPj2hkig), [Git - система контроля версий](https://disk.yandex.ru/i/3kvpHYNImrb9ZQ), [Java для тестировщиков](https://disk.yandex.ru/i/r9HjBYIas6gGaA), [Автоматизорованное тестирование](https://disk.yandex.ru/i/VVkgHVMFB1qSOw), [Тестировщик ПО]([https://netology.ru/sharing/e32c8aa3953c83c0667acfd3f03726cf?utm_source=social&utm_campaign=certificate_lms ](https://disk.yandex.ru/i/30ua1jIqSjaD5w).
+**Сертификаты Нетологии:** [Основы SQL](https://disk.yandex.ru/i/m7sa0SRMbiwlbA), [Ручное тестирование веб-приложений](https://disk.yandex.ru/i/gssbtCHPj2hkig), [Git - система контроля версий](https://disk.yandex.ru/i/3kvpHYNImrb9ZQ), [Java для тестировщиков](https://disk.yandex.ru/i/r9HjBYIas6gGaA), [Автоматизорованное тестирование](https://disk.yandex.ru/i/VVkgHVMFB1qSOw), [Тестировщик ПО](https://disk.yandex.ru/i/30ua1jIqSjaD5w).
 
 **Полученные навыки:** 
 * Запуск тестов с использованием системы Continuous Integration (CI)
