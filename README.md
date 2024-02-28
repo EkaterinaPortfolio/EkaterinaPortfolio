@@ -3,23 +3,52 @@
 ## Вот, что я умею
 Мои ключевые работы можно увидеть пройдя по [ссылке](https://github.com/EkaterinaPortfolio?tab=repositories) 
 
-Работала со следующими инструментами:
-* IntelliJ IDEA Community Edition 2023.2
-* Docker
-* DBeaver
-* Postman
-* JMeter
-* Jira
-* Git
-* GitHub
-* OpenJDK 11
-* Gradle
-* Maven
-* JUnit
-* Selenide
-* Lombok
-* Allure
-* Faker
-* MySQL
-* PostgreSQL
+**Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
+
+**Сертификаты Нетологии:** [Основы SQL](https://netology.ru/sharing/51fa0f38e992e4b5ff3516d092e1d112?utm_source=social&utm_campaign=certificate_lms ), [Ручное тестирование веб-приложений](https://netology.ru/sharing/7aefa490e7e063b0be80b731efd3be00?utm_source=social&utm_campaign=certificate_lms ), [Git - система контроля версий](https://netology.ru/sharing/4b36848c6c2b7b5963bb6728b36ea414?utm_source=social&utm_campaign=certificate_lms ), [Java для тестировщиков](https://netology.ru/sharing/dab7b32db9f9fa2fa17b959f41864fbf?utm_source=social&utm_campaign=certificate_lms ), [Автоматизорованное тестирование](https://netology.ru/sharing/6d693313f588060854f0a1c58a3e963b?utm_source=social&utm_campaign=certificate_lms ), [Тестировщик ПО](https://netology.ru/sharing/e32c8aa3953c83c0667acfd3f03726cf?utm_source=social&utm_campaign=certificate_lms ).
+
+**Полученные навыки:** 
+* Запуск тестов с использованием системы Continuous Integration (CI)
+* Основы HTML, CSS
+* Тестирование веб-интерфейсов: инструменты Selenium и Selenide
+* Архитектура тестов (Patterns)
+* Работа с с Behaviour Driven Development (BDD)
+* Виртуализация (контейнеризация) в разрезе тестирования
+* Работа с SQL для тестировщиков
+* Автоматизация отчетности
+* Планирование автоматизации
+* Подбор вида тестирования
+* Использование html и css в работе тестировщика
+* Проектирование тестов
+* Подготовка тестовых сценариев
+* Создание отчетности
+* Применение инструментов тестирования для работы с документацией
+* Применение инструментов тестирования (Клиент-Сервер)
+* Участие QA в процессе разработки
+* Запуск программ на Java
+* Подбор примитивного типа данных для хранения данных
+* Добавление проверок условий в логику кода
+* Работа с отладчиком
+* Использование объектов сервисных классов и их методов
+* Использование системы сборки Maven
+* Создание автотестов на JUnit5
+* Работа с пакетами и циклами
+* Параметризация тестов
+* Работа со строками и массивами
+* Выстраивание процесса непрерывной интеграции (CI): Github Actions
+* Работа с покрытием кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs
+* Использование принципов объектно-ориентированного программирования
+* Объектно-ориентированное программирование и проектирование
+* Работа с объектами с внутренним состоянием, управление состоянием при тестировании
+* Применение композиции и зависимости объектов и их тестирование с помощью Mockito
+* Наследование и расширяемость систем
+* Работа с исключительными ситуациями и их обработка и тестирование
+* Работа с интерфейсами для организации малой связности
+* Обобщённое программирование (Generics)
+* Использование Collections Framework
+* Установка и настройка Git
+* Работа в Git с локальным репозиторием
+* Установка и настройка GitHub для собственного проекта
+* Работа в Git & GitHub при командной разработке в GitHub
+* Работа с Git в различных окружениях (графический интерфейсы, IDE, вебс-сервисы)
 
