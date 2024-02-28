@@ -5,7 +5,7 @@
 
 **Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
 
-**Сертификаты Нетологии:** [Основы SQL](https://github.com/Ekaterina7121994/Resume/blob/main/files/SQL.md), [Ручное тестирование веб-приложений](https://github.com/Ekaterina7121994/Resume/blob/main/files/manual%20testing.md), [Git - система контроля версий](https://github.com/Ekaterina7121994/Resume/blob/main/files/Git.md), [Java для тестировщиков](https://github.com/Ekaterina7121994/Resume/blob/main/files/Java.md), [Автоматизированное тестирование](https://github.com/Ekaterina7121994/Resume/blob/main/files/automation.md), [Тестировщик ПО]([https://disk.yandex.ru/i/30ua1jIqSjaD5w](https://github.com/Ekaterina7121994/Resume/blob/main/files/software%20tester.md)).
+**Сертификаты Нетологии:** [Основы SQL](https://github.com/Ekaterina7121994/Resume/blob/main/files/SQL.md), [Ручное тестирование веб-приложений](https://github.com/Ekaterina7121994/Resume/blob/main/files/manual%20testing.md), [Git - система контроля версий](https://github.com/Ekaterina7121994/Resume/blob/main/files/Git.md), [Java для тестировщиков](https://github.com/Ekaterina7121994/Resume/blob/main/files/Java.md), [Автоматизированное тестирование](https://github.com/Ekaterina7121994/Resume/blob/main/files/automation.md), [Тестировщик ПО]([https://disk.yandex.ru/i/30ua1jIqSjaD5w](https://github.com/Ekaterina7121994/Resume/blob/main/files/software%20tester.md).
 
 **Полученные навыки:** 
 * Запуск тестов с использованием системы Continuous Integration (CI)
