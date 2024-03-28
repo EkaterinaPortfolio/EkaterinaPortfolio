@@ -15,11 +15,15 @@
    [4.4](https://github.com/Ekaterina7121994/collections) Collections Framework. CRUD и тестирование систем, управляющих набором объектов
    
    [4.5](https://github.com/AndreyKozhevnikov86/Project_team_java) Командный проект.
+   
+5. Автоматизированное тестирование. [Дипломная работа](https://github.com/Ekaterina7121994/Diploma_project) по теме: Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка
+* Разработан [перечень автоматизируемых сценариев](https://github.com/Ekaterina7121994/Diploma_project/blob/main/docs/Plan.md)
+* Написаны [атотесты](https://github.com/Ekaterina7121994/Diploma_project/blob/main/src/test/java/ru/netology/test/PaymentTest.java) (ссылка ведет на часть тестов)
+* Заведены [баг-репорты](https://github.com/Ekaterina7121994/Diploma_project/issues)
+* Создан [отчёт](https://github.com/Ekaterina7121994/Diploma_project/blob/main/docs/Report.md) по итогам тестирования 
+* Создан [отчёт](https://github.com/Ekaterina7121994/Diploma_project/blob/main/docs/Summary.md) по итогам автоматизации
 
-
-
-
-**Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
+**Работала со следующими программами и инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
 
 **Сертификаты Нетологии:** [Основы SQL](https://github.com/Ekaterina7121994/Resume/blob/main/files/SQL.md), [Ручное тестирование веб-приложений](https://github.com/Ekaterina7121994/Resume/blob/main/files/manual%20testing.md), [Git - система контроля версий](https://github.com/Ekaterina7121994/Resume/blob/main/files/Git.md), [Java для тестировщиков](https://github.com/Ekaterina7121994/Resume/blob/main/files/Java.md), [Автоматизированное тестирование](https://github.com/Ekaterina7121994/Resume/blob/main/files/automation.md), [Тестировщик ПО](https://github.com/Ekaterina7121994/Resume/blob/main/files/software%20tester.md).
 
