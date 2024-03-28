@@ -4,6 +4,17 @@
 1. Успешно выполненное тестовое задание от  [Fun&Sun](https://docs.google.com/spreadsheets/d/1M6f965KFbvPaNwQk88CC8J-2AGzFKnGBaGkRJCbGUCQ/edit?usp=sharing): было проведено ручное тестирование формы авторизации, заведено несколько баг-репортов, написано десять тест кейсов. Ответила на вопросы требующие изучения DevTools.
 2. Создание и запуск автотестов в Postman по документации [DUMMYAPI.IO](https://dummyapi.io/docs). [Ссылка на решение](https://github.com/Ekaterina7121994/Dummyapi_Postman).
 3. Создание и запуск автотестов в Postman задание от [Hezzl](https://github.com/Ekaterina7121994/Hezzl).
+4. Блок Java:
+
+   [4.1](https://github.com/Ekaterina7121994/task8/blob/main/src/test/java/ru/netology/task8/statistic/StatisticsServiceTest.java) Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs
+   
+   [4.2](https://github.com/Ekaterina7121994/Inheritance) Наследование и расширяемость систем. Проблемы наследования
+   
+   [4.3](https://github.com/Ekaterina7121994/ExceptionalSituations) Исключительные ситуации и их обработка. Тестирование исключений
+   
+   [4.4](https://github.com/Ekaterina7121994/collections) Collections Framework. CRUD и тестирование систем, управляющих набором объектов
+   
+   [4.5](https://github.com/AndreyKozhevnikov86/Project_team_java) Командный проект.
 
 
 
