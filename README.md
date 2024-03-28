@@ -2,6 +2,11 @@
 ## Я Крюкова Екатерина, QA-engineer
 ## Вот, что я умею
 1. Успешно выполненное тестовое задание от  [Fun&Sun](https://docs.google.com/spreadsheets/d/1M6f965KFbvPaNwQk88CC8J-2AGzFKnGBaGkRJCbGUCQ/edit?usp=sharing): было проведено ручное тестирование формы авторизации, заведено несколько баг-репортов, написано десять тест кейсов. Ответила на вопросы требующие изучения DevTools.
+2. Создание и запуск автотестов в Postman по документации [DUMMYAPI.IO](https://dummyapi.io/docs). [Ссылка на решение](https://github.com/Ekaterina7121994/Dummyapi_Postman).
+3. Создание и запуск автотестов в Postman задание от [Hezzl](https://github.com/Ekaterina7121994/Hezzl).
+
+
+
 
 **Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
 
