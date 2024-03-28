@@ -1,7 +1,7 @@
 ## Привет!
 ## Я Крюкова Екатерина, QA-engineer
 ## Вот, что я умею
-Мои ключевые работы можно увидеть пройдя по [ссылке](https://github.com/EkaterinaPortfolio?tab=repositories) 
+Успешно выполненное тестовое задание от [Fun&Sun](https://docs.google.com/spreadsheets/d/1M6f965KFbvPaNwQk88CC8J-2AGzFKnGBaGkRJCbGUCQ/edit?usp=sharing) : Мной было выполнено ручное тестирование формы аторизации, заведены баг-репорты, написаны тест кейсы. Ответила на вопросы требующие изучения DevTools.
 
 **Работала со следующими инструментами:** IntelliJ IDEA Community Edition 2023.2, Docker, DBeaver, Postman, JMeter, Jira, Git, GitHub, OpenJDK 11, Gradle, Maven, JUnit, Selenium, Selenide, Lombok, Allure, Faker, MySQL, PostgreSQL
 
